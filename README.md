@@ -39,13 +39,16 @@ The project demonstrates how affordable hardware can be combined with intelligen
 
 # Project Preview
 
-![Dashboard](images/Screenshot 2026-06-25 193857.png)
+## Dashboard:
+![Dashboard](images/Dashboard.png)
 
-![Mapper](images/Screenshot 2026-06-25 193911.png)
+## Mapper Screenshot:
+![Mapper](images/Mapper.png)
 
-![Robot1](images/Screenshot 2026-06-25 193917.png)
+## Robot Images
+![Robot1](images/Robo1.png)
 
-![Robot2](images/Screenshot 2026-06-25 193923.png)
+![Robot2](images/Robo2.png)
 
 ---
 
